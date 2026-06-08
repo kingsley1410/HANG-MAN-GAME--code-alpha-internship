@@ -1,0 +1,28 @@
+Python Chatbot
+
+A simple chatbot built using Python. The chatbot interacts with users through a text-based interface and responds to common greetings, questions, and basic conversations.
+
+Features
+Interactive text-based conversation
+Responds to greetings and common questions
+Simple rule-based responses
+Easy-to-use console interface
+Exit command to end the chat
+
+Technologies Used:
+Python
+
+How to Run:
+Clone or download the project.
+Open a terminal in the project folder.
+Run the following command:
+python chatbot.py
+Type your messages and chat with the bot.
+Enter bye or exit to end the conversation.
+
+About the Project
+
+This project was created to practice basic Python concepts such as conditional statements, loops, functions, string handling,
+and user input processing. 
+It demonstrates how simple rule-based chatbots work and serves as a foundation for building more advanced 
+conversational applications in the future.
